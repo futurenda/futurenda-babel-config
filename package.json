@@ -1,0 +1,31 @@
+{
+  "name": "futurenda-babel-config",
+  "version": "1.0.1",
+  "description": "Babel config used across futurenda projects",
+  "main": "config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futurenda/futurenda-babel-config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/futurenda/futurenda-babel-config/issues"
+  },
+  "homepage": "https://github.com/futurenda/futurenda-babel-config#readme",
+  "dependencies": {
+    "@babel/core": "^7.0.0-rc.3",
+    "@babel/plugin-proposal-do-expressions": "^7.0.0-rc.3",
+    "@babel/plugin-proposal-export-default-from": "^7.0.0-rc.3",
+    "@babel/plugin-proposal-export-namespace-from": "^7.0.0-rc.3",
+    "@babel/plugin-proposal-json-strings": "^7.0.0-rc.3",
+    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.0.0-rc.3",
+    "@babel/plugin-proposal-optional-chaining": "^7.0.0-rc.3",
+    "@babel/plugin-proposal-throw-expressions": "^7.0.0-rc.3",
+    "@babel/plugin-syntax-dynamic-import": "^7.0.0-rc.3",
+    "@babel/plugin-syntax-jsx": "^7.0.0-rc.3",
+    "@babel/preset-env": "^7.0.0-rc.3",
+    "babel-plugin-transform-string-to-import": "0.0.2",
+    "babel-plugin-transform-vue-jsx": "^3.7.0"
+  }
+}
