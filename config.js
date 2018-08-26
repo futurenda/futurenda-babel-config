@@ -17,6 +17,7 @@ module.exports = ({
             useBuiltIns: 'usage',
             loose: true,
             exclude: [
+                'transform-regenerator',
                 'es6.typed.data-view',
                 'es6.typed.int8-array',
                 'es6.typed.uint8-array',
