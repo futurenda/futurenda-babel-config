@@ -1,6 +1,6 @@
 {
   "name": "futurenda-babel-config",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Babel config used across futurenda projects",
   "main": "config.js",
   "repository": {
