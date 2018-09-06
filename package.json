@@ -27,6 +27,6 @@
     "@babel/polyfill": "^7.0.0",
     "@babel/preset-env": "^7.0.0",
     "babel-plugin-transform-string-to-import": "0.0.2",
-    "babel-plugin-transform-vue-jsx": "^3.7.0"
+    "babel-plugin-transform-vue-jsx": "^4.0.1"
   }
 }
